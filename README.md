@@ -24,9 +24,9 @@
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
 </p>
 
-<!-- CONTRIBUTIONS (default GitHub graph) -->
+<!-- CONTRIBUTIONS PLACEHOLDER -->
 <p align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=Airlles&theme=github-compact" alt="GitHub Contributions" />
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=Airlles&theme=github-compact" alt="GitHub Activity Graph"/>
 </p>
 
 ---
