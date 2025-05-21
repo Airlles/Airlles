@@ -1,111 +1,96 @@
-<!-- ✨ Custom GitHub Profile README ✨ -->
+<!-- 🎛️ Custom GitHub Profile README: Dashboard Edition 🎛️ -->
+
+<!-- DASHBOARD HEADER SECTION -->
 <p align="center">
-  <img src="https://media.giphy.com/media/3o7abB06u9bNzA8lu8/giphy.gif" width="250"/>
+  <img src="https://readme-typing-svg.demolab.com/?lines=Hey%2C%20I'm%20Hani%20Ahmed!;Digital%20Systems%20Engineer%20in%20Training;Always%20Learning%20%26%20Building!&font=Fira%20Code&center=true&width=550&height=50">
 </p>
 
-<h1 align="center">🕐️ Hey, I'm <span style="color:#61dafb">Hani Ahmed</span></h1>
+<p align="center">
+  <img src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif" width="80"/>
+  <img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" width="80"/>
+  <img src="https://media.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif" width="80"/>
+</p>
 
 <p align="center">
-  🔧 Digital Design Enthusiast | 🐍 Python Problem-Solver | 🧠 HDL Architect  
+  <img src="https://github-readme-stats.vercel.app/api?username=Airlles&show_icons=true&theme=radical&hide_title=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Airlles&theme=radical" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Airlles&theme=radical" />
 </p>
 
 ---
 
-## 🎯 About Me
+<!-- CODE-EDITOR STYLE README SECTION -->
 
 ```ascii
- _____       _            _                              
-| ____|_ __ | |_ ___ _ __(_)_ __   __ _                  
-|  _| | '_ \| __/ _ \ '__| | '_ \ / _` |                 
-| |___| | | | ||  __/ |  | | | | | (_| |                 
-|_____|_| |_|\__\___|_|  |_|_| |_|\__, |                 
- _   _             _ _      __    |___/_         _     _ 
-| | | | __ _ _ __ (_| )___  \ \      / /__  _ __| | __| |
-| |_| |/ _` | '_ \| |// __|  \ \ /\ / / _ \| '__| |/ _` |
-|  _  | (_| | | | | | \__ \   \ V  V / (_) | |  | | (_| |
-|_| |_|\__,_|_| |_|_| |___/    \_/\_/ \___/|_|  |_|\__,_|
+   _______   _       _        _          
+  |__   __| (_)     (_)      | |         
+     | |     _  __ _ _  ___  | |_  ___   
+     | |    | |/ _` | |/ __| | __|/ _ \  
+     | |    | | (_| | | (__  | |_| (_) | 
+     |_|    |_|\__, |_|\___|  \__|\___/  
+                __/ |                    
+               |___/                     
 ```
 
-🔬 Electrical Engineering Student @ Toronto Metropolitan University (Co-op)  
-🛠 Crafting CPUs & Amplifiers | 🧪 Testbench Tinkerer | 🖥️ Microservices Builder  
-🔀 Forever Debugging | 📊 Data-Driven Optimization  
+## ⚡ About Me
+
+🔬 Electrical Engineering Student @ TMU (Co-op)  
+🔧 Digital Design | 🧪 Embedded Systems | 💻 Backend APIs  
+🎯 Curious about CPUs, Waveforms & Systems Architecture
 
 ---
 
-## ⚡ Tech Stack
+## 🛠️ Tech Stack
 
-🔌 **Hardware & Simulation:**  
-`SystemVerilog` · `Verilog` · `VHDL` · `Quartus II` · `ModelSim` · `LTSpice` · `Multisim` · `Arduino`
-
-💻 **Programming & Scripting:**  
-`Python` · `C/C++` · `Java` · `Shell` · `SQL (Postgres)`
-
-🔍 **Verification & Debugging:**  
-Testbenches · RTL Sim · Waveform Analysis · FSMs · Timing Analysis
-
-🧰 **Tools & Platforms:**  
-Linux · Git · VS Code · Eclipse · GitHub Actions · Render
+**Languages & Hardware:** `SystemVerilog` · `VHDL` · `C/C++` · `Python` · `Java`  
+**Simulation & IDEs:** `ModelSim` · `Quartus II` · `LTSpice` · `VS Code` · `Render`  
+**Tools:** Git · Linux · GitHub Actions · Arduino
 
 ---
 
-## 🧪 Project Highlights
+## 🧪 Notable Projects
 
-📡 **RISC-V 5-Stage CPU** — HDL, ModelSim, Quartus  
-🧠 **FastAPI BobaCloud** — REST API, CI/CD, Pytest  
-🎮 **Simon Memory Game** — Java, GUI Logic, Sound Feedback  
-📊 **Amplifier Circuits** — Common-Emitter / Common-Base / Multi-Stage  
-💡 **Voltage Regulator & Diode Analysis** — Ripple Tests, Error Calculations  
-🧱 **PC Assembly & Debugging** — BIOS Config, Diagnostics
-
-<p align="center">
-  <img src="https://media.giphy.com/media/l1J3preURPiwjRPvG/giphy.gif" width="300"/>
-</p>
+🧠 **RISC-V CPU (5-stage)** – Custom ALU, PC logic, pipelining  
+📡 **FastAPI BobaCloud** – REST microservice with CI/CD + tests  
+🎮 **Simon Game (Java GUI)** – Animated, interactive sequence game  
+📈 **Analog Design Labs** – Amplifiers, Diode Regs, Rectifiers
 
 ---
 
 ## 💼 Experience
 
-🛠️ **FMD Intern – Systems Support (TMU)**  
-🗓️ *May 2024 – Present*  
-- Deployed 50+ tablets replacing legacy paper workflows  
-- Scripted automation in Python, cutting utility use by 15%  
-- Reduced support load by 25% through documentation
+**🛠️ FMD Intern – TMU** *(May 2024 – Present)*  
+Deployed tablets, automated workflows, built Python analytics
 
-🧰 **Volunteer – Siemens Computer Refurbishment**  
-🗓️ *Jul 2023 – Aug 2023*  
-- Revived 500+ systems | BIOS config | Hardware diagnostics
+**🔧 Siemens Volunteer** *(Jul 2023 – Aug 2023)*  
+Refurbished 500+ systems, BIOS & perf optimization
 
 ---
 
 ## 🎓 Education
 
-📘 **B.Eng. Electrical Engineering**  
-🏫 Toronto Metropolitan University  
-🗓️ *2023 – 2027*  
-🧠 Microprocessors · Digital Systems · Electronic Circuits  
+**B.Eng. Electrical Engineering** @ TMU *(2023–2027)*  
+Key Courses: Digital Systems · Microprocessors · Circuit Theory
 
 ---
 
-## 📬 Contact Me
+## 🌐 Connect with Me
 
-📧 Email: [haniahmd004@gmail.com](mailto:haniahmd004@gmail.com)  
-🔗 LinkedIn: [linkedin.com/in/haniahmd](https://linkedin.com/in/haniahmd)  
-🖥️ GitHub: [github.com/Airlles](https://github.com/Airlles)  
-🌐 Portfolio: [haniii.vercel.app](https://haniii.vercel.app)
-
----
-
-## 🧂 Badges
-
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)  
-![SystemVerilog](https://img.shields.io/badge/-SystemVerilog-blue?style=flat-square)  
-![C](https://img.shields.io/badge/-C-00599C?style=flat-square&logo=c&logoColor=white)  
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)  
-![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)  
-![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+📫 [haniahmd004@gmail.com](mailto:haniahmd004@gmail.com)  
+🔗 [LinkedIn](https://linkedin.com/in/haniahmd)  
+💻 [GitHub](https://github.com/Airlles)  
+🧠 [Portfolio](https://haniii.vercel.app)
 
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Always%20Building;Always%20Debugging;Always%20Learning!&font=Fira%20Code&center=true&width=380&height=50">
+  <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="100"/>
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100"/>
+  <img src="https://media.giphy.com/media/jRf5fsn8G6YaogAWxn/giphy.gif" width="100"/>
 </p>
