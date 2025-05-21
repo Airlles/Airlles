@@ -1,108 +1,109 @@
-# 👋 Hey, I’m Hani Ahmed
+<!-- ✨ Custom GitHub Profile README ✨ -->
+<p align="center">
+  <img src="https://media.giphy.com/media/3o7abB06u9bNzA8lu8/giphy.gif" width="250"/>
+</p>
 
-🎓 Electrical Engineering @ TMU (Co-op)  
-🔧 Digital Design & Embedded Systems Enthusiast  
-💻 Pythonic Problem-Solver | ⚙️ HDL Architect | 🔍 Debug Detective  
-🌐 Portfolio: [haniii.vercel.app](https://haniii.vercel.app)
+<h1 align="center">🕐️ Hey, I'm <span style="color:#61dafb">Hani Ahmed</span></h1>
 
----
-
-## 🚀 About Me
-
-🧠 Passionate about hardware-software co-design, digital systems, and embedded innovation  
-🛠️ Crafting CPUs in SystemVerilog and building amplifiers on breadboards  
-📊 Obsessed with waveform analysis, testbenches, and clean circuit design  
-🤝 Strong believer in cross-functional collaboration and real-world problem solving  
-💼 Currently at TMU Facilities optimizing systems through automation and scripting  
+<p align="center">
+  🔧 Digital Design Enthusiast | 🐍 Python Problem-Solver | 🧠 HDL Architect  
+</p>
 
 ---
 
-## 🛠️ Tech Stack & Tools
+## 🎯 About Me
 
-**🔌 Hardware Design:**  
-`SystemVerilog` | `VHDL` | `Verilog` | `Quartus II` | `ModelSim` | `LTSpice` | `Multisim` | `Arduino`
+```ascii
+   _______   _       _        _          
+  |__   __| (_)     (_)      | |         
+     | |     _  __ _ _  ___  | |_  ___   
+     | |    | |/ _` | |/ __| | __|/ _ \  
+     | |    | | (_| | | (__  | |_| (_) | 
+     |_|    |_|\__, |_|\___|  \__|\___/  
+                __/ |                    
+               |___/                     
+```
 
-**🧑‍💻 Programming & Scripting:**  
-`Python` | `C/C++` | `Java` | `Shell` (basic) | `SQL (Postgres)`
-
-**🧪 Debugging & Verification:**  
-Testbench Dev | RTL Simulation | Waveform Analysis | FSMs | Timing Analysis
-
-**⚙️ Platforms & Tools:**  
-Linux (basic) | Git | VS Code | Visual Studio | Eclipse | Render | GitHub Actions
+🔬 Electrical Engineering Student @ Toronto Metropolitan University (Co-op)  
+🛠 Crafting CPUs & Amplifiers | 🧪 Testbench Tinkerer | 🖥️ Microservices Builder  
+🔀 Forever Debugging | 📊 Data-Driven Optimization  
 
 ---
 
-## 🧪 Selected Projects
+## ⚡ Tech Stack
 
-### 🔧 RISC-V 5-Stage CPU (SystemVerilog)
-- Designed an ALU, PC, pipelining support, and simulation testbenches  
-- Modular architecture built for RTL-level testability
+🔌 **Hardware & Simulation:**  
+`SystemVerilog` · `Verilog` · `VHDL` · `Quartus II` · `ModelSim` · `LTSpice` · `Multisim` · `Arduino`
 
-### 🔧 Simple CPU Architecture (FPGA)
-- VHDL-based CPU w/ 7-segment display output  
-- Focus on FSM logic, ALU operations, and real-time display control
+💻 **Programming & Scripting:**  
+`Python` · `C/C++` · `Java` · `Shell` · `SQL (Postgres)`
 
-### 🌐 FastAPI BobaCloud Microservice
-- RESTful API for drink orders w/ CI, Pytest, and public deployment  
-- Auto-tested with GitHub Actions
+🔍 **Verification & Debugging:**  
+Testbenches · RTL Sim · Waveform Analysis · FSMs · Timing Analysis
 
-### 🎮 Simon Memory Game (Java + Processing)
-- GUI-based memory game with animations, audio, and game state logic
+🧰 **Tools & Platforms:**  
+Linux · Git · VS Code · Eclipse · GitHub Actions · Render
 
-### 📊 Common-Emitter & Common-Base Amplifiers
-- Designed, built, and analyzed gain, loading, and biasing effects  
-- Compared theoretical vs experimental results via oscilloscope
+---
 
-### 💡 Diode & Regulator Experiments
-- Diode IV curves, wave-shaping behavior, and regulator stability testing  
-- Circuit debugging, small-signal behavior, and voltage ripple analysis
+## 🧪 Project Highlights
+
+📡 **RISC-V 5-Stage CPU** — HDL, ModelSim, Quartus  
+🧠 **FastAPI BobaCloud** — REST API, CI/CD, Pytest  
+🎮 **Simon Memory Game** — Java, GUI Logic, Sound Feedback  
+📊 **Amplifier Circuits** — Common-Emitter / Common-Base / Multi-Stage  
+💡 **Voltage Regulator & Diode Analysis** — Ripple Tests, Error Calculations  
+🧱 **PC Assembly & Debugging** — BIOS Config, Diagnostics
+
+<p align="center">
+  <img src="https://media.giphy.com/media/l1J3preURPiwjRPvG/giphy.gif" width="300"/>
+</p>
 
 ---
 
 ## 💼 Experience
 
-### 🏢 FMD Intern – Systems Support  
-**TMU Facilities Management & Development** | Toronto, ON | *May 2024 – Present*  
-- Deployed 50+ tablets and implemented Archibus to streamline operations  
-- Created Python automation scripts reducing water usage by 15%  
-- Authored documentation cutting IT support requests by 25%
+🛠️ **FMD Intern – Systems Support (TMU)**  
+🗓️ *May 2024 – Present*  
+- Deployed 50+ tablets replacing legacy paper workflows  
+- Scripted automation in Python, cutting utility use by 15%  
+- Reduced support load by 25% through documentation
 
-### 🔧 Volunteer – Computer Refurbishment  
-**Siemens Canada** | Oakville, ON | *Jul 2023 – Aug 2023*  
-- Refurbished 500+ machines; restored and optimized hardware  
-- Improved operational efficiency by 20% through hands-on system tuning
-
----
-
-## 🧠 Education
-
-**Bachelor of Engineering (BEng)** – Electrical Engineering  
-Toronto Metropolitan University, 2023 – 2027  
-_Courses: Microprocessor Systems, Digital Systems, Electronic Circuits_
+🧰 **Volunteer – Siemens Computer Refurbishment**  
+🗓️ *Jul 2023 – Aug 2023*  
+- Revived 500+ systems | BIOS config | Hardware diagnostics
 
 ---
 
-## 📬 Connect With Me
+## 🎓 Education
 
-📧 haniahmd004@gmail.com  
-🔗 [LinkedIn](https://linkedin.com/in/haniahmd)  
-💻 [GitHub](https://github.com/Airlles)  
-🌐 [Portfolio](https://haniii.vercel.app)
-
----
-
-## 🧢 Programming Badges (Add Images)
-
-<!-- You can add shields.io badges or custom icons below -->
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![SystemVerilog](https://img.shields.io/badge/SystemVerilog-blue?style=for-the-badge)
-![VHDL](https://img.shields.io/badge/VHDL-purple?style=for-the-badge)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-blue?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+📘 **B.Eng. Electrical Engineering**  
+🏫 Toronto Metropolitan University  
+🗓️ *2023 – 2027*  
+🧠 Microprocessors · Digital Systems · Electronic Circuits  
 
 ---
 
-⭐️ Always building. Always debugging. Always learning.
+## 📬 Contact Me
+
+📧 Email: [haniahmd004@gmail.com](mailto:haniahmd004@gmail.com)  
+🔗 LinkedIn: [linkedin.com/in/haniahmd](https://linkedin.com/in/haniahmd)  
+🖥️ GitHub: [github.com/Airlles](https://github.com/Airlles)  
+🌐 Portfolio: [haniii.vercel.app](https://haniii.vercel.app)
+
+---
+
+## 🧂 Badges
+
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)  
+![SystemVerilog](https://img.shields.io/badge/-SystemVerilog-blue?style=flat-square)  
+![C](https://img.shields.io/badge/-C-00599C?style=flat-square&logo=c&logoColor=white)  
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)  
+![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)  
+![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+
+---
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Always%20Building;Always%20Debugging;Always%20Learning!&font=Fira%20Code&center=true&width=380&height=50">
+</p>
