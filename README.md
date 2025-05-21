@@ -71,7 +71,47 @@ Languages &amp; Hardware:</code></pre>
 </p>
 
 ---
+<!-- PROJECTS -->
+<div style="background-color:#1e1e1e; color:#d4d4d4; padding:20px; border-radius:10px; font-family:'Fira Code', monospace; font-size:14px;">
+<pre><code><span style="color:#6A9955;">// 🧪 Notable Projects</span></code></pre>
+</div>
 
+<!-- HARDWARE PROJECTS -->
+<details>
+  <summary><strong>🔧 Hardware Projects</strong></summary>
+  <ul>
+    <li>
+      <strong>RISC-V CPU (5-stage)</strong>  
+      <br><em>Custom pipelined CPU with ALU, PC logic & memory stages.</em>  
+      <br><code>SystemVerilog · ModelSim · Quartus · FPGA</code>
+    </li>
+    <br>
+    <li>
+      <strong>Analog Design Labs</strong>  
+      <br><em>Built amplifiers, diode regulators, rectifiers on breadboard.</em>  
+      <br><code>LTSpice · Oscilloscope · Function Generator · Breadboard</code>
+    </li>
+  </ul>
+</details>
+
+<!-- SOFTWARE PROJECTS -->
+<details>
+  <summary><strong>💻 Software Projects</strong></summary>
+  <ul>
+    <li>
+      <strong>FastAPI BobaCloud</strong>  
+      <br><em>REST API microservice for boba shop backend with CI/CD.</em>  
+      <br><code>Python · FastAPI · Docker · GitHub Actions · Render</code>
+    </li>
+    <br>
+    <li>
+      <strong>Simon Game (Java GUI)</strong>  
+      <br><em>Color memory game with animations and sound effects.</em>  
+      <br><code>Java · Eclipse · Swing</code>
+    </li>
+  </ul>
+</details>
+--- 
 
 <!-- EXPERIENCE -->
 <div style="background-color:#1e1e1e; color:#d4d4d4; padding:20px; border-radius:10px; font-family:'Fira Code', monospace; font-size:14px;">
