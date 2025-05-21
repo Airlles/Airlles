@@ -1,26 +1,20 @@
-<!-- 🎛️ Custom GitHub Profile README: Dashboard Edition 🎛️ -->
+<!-- 🎛️ Custom GitHub Profile README: Interactive x Code Editor Mix -->
 
-<!-- DASHBOARD HEADER SECTION -->
+<!-- DYNAMIC TOP LINE -->
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com/?lines=Hey%2C%20I'm%20Hani%20Ahmed!;Digital%20Systems%20Engineer%20in%20Training;Always%20Learning%20%26%20Building!&font=Fira%20Code&center=true&width=550&height=50">
 </p>
 
+<!-- CLEAN SPACED OUT GIFS -->
 <p align="center">
-  <img src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif" width="80"/>
-  <img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" width="80"/>
-  <img src="https://media.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif" width="80"/>
+  <img src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif" width="100" style="margin: 0 20px;"/>
+  <img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" width="100" style="margin: 0 20px;"/>
+  <img src="https://media.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif" width="100" style="margin: 0 20px;"/>
 </p>
 
+<!-- CONTRIBUTIONS (simulated 30-day contribution view) -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Airlles&show_icons=true&theme=radical&hide_title=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Airlles&theme=radical" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Airlles&theme=radical" />
+  <img src="https://github-contributions-api.jogruber.de/v4/Airlles?format=svg&range=30" alt="GitHub Contributions (last 30 days)" />
 </p>
 
 ---
@@ -90,7 +84,7 @@ Key Courses: Digital Systems · Microprocessors · Circuit Theory
 ---
 
 <p align="center">
-  <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="100"/>
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100"/>
-  <img src="https://media.giphy.com/media/jRf5fsn8G6YaogAWxn/giphy.gif" width="100"/>
+  <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="100" style="margin: 0 15px;"/>
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100" style="margin: 0 15px;"/>
+  <img src="https://media.giphy.com/media/jRf5fsn8G6YaogAWxn/giphy.gif" width="100" style="margin: 0 15px;"/>
 </p>
