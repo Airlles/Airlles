@@ -24,13 +24,17 @@
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
 </p>
 
-<!-- CONTRIBUTIONS PLACEHOLDER -->
 <p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=Airlles&theme=github-compact" alt="GitHub Activity Graph"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Airlles&show_icons=true&theme=radical&hide_title=true" />
 </p>
 
----
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Airlles&theme=radical" />
+</p>
 
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Airlles&theme=radical" />
+</p>
 <!-- CODE-EDITOR STYLE README SECTION -->
 
 ```ascii
