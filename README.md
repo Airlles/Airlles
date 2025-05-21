@@ -12,9 +12,21 @@
   <img src="https://media.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif" width="100" style="margin: 0 20px;"/>
 </p>
 
-<!-- CONTRIBUTIONS (simulated 30-day contribution view) -->
+<!-- BADGES SECTION -->
 <p align="center">
-  <img src="https://github-contributions-api.jogruber.de/v4/Airlles?format=svg&range=30" alt="GitHub Contributions (last 30 days)" />
+  <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C++-004482?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SystemVerilog-000000?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/VHDL-453C5C?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+</p>
+
+<!-- CONTRIBUTIONS (default GitHub graph) -->
+<p align="center">
+  <img src="https://activity-graph.herokuapp.com/graph?username=Airlles&theme=github-compact" alt="GitHub Contributions" />
 </p>
 
 ---
