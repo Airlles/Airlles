@@ -24,25 +24,14 @@
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
 </p>
 
-<p align="center">
+<!-- <p align="center"> 
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Airlles&theme=radical" />
-</p>
+</p> -->
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Airlles&theme=radical" />
 </p>
-<!-- CODE-EDITOR STYLE README SECTION -->
 
-```ascii
-   _______   _       _        _          
-  |__   __| (_)     (_)      | |         
-     | |     _  __ _ _  ___  | |_  ___   
-     | |    | |/ _` | |/ __| | __|/ _ \  
-     | |    | | (_| | | (__  | |_| (_) | 
-     |_|    |_|\__, |_|\___|  \__|\___/  
-                __/ |                    
-               |___/                     
-```
 
 ## ⚡ About Me
 
