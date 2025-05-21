@@ -29,8 +29,8 @@
 </code></pre>
 </div>
 
-<!-- TECH STACK -->
-<div style="background-color:#1e1e1e; color:#d4d4d4; padding:20px; border-radius:10px; font-family:'Fira Code', monospace; font-size:14px; margin-bottom:0;">
+<!-- Code editor look -->
+<div style="background-color:#1e1e1e; color:#d4d4d4; padding:20px; border-radius:10px; font-family:'Fira Code', monospace; font-size:14px;">
 <pre><code><span style="color:#6A9955;">// 🛠️ Tech Stack</span>
 Languages &amp; Hardware:</code></pre>
 </div>
@@ -42,22 +42,35 @@ Languages &amp; Hardware:</code></pre>
   <img src="https://img.shields.io/badge/C++-004482?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
   <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white"/>
 </p>
 
-<div style="background-color:#1e1e1e; color:#d4d4d4; padding:20px; border-radius:10px; font-family:'Fira Code', monospace; font-size:14px; margin-bottom:0;">
+<div style="background-color:#1e1e1e; color:#d4d4d4; padding:10px 20px; border-radius:8px; font-family:'Fira Code', monospace; font-size:14px; margin-top:10px;">
 <pre><code>Simulation &amp; IDEs:</code></pre>
 </div>
 
 <p>
   <img src="https://img.shields.io/badge/ModelSim-003B6F?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Quartus%20II-007ACC?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/LTSpice-A51417?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Quartus-007ACC?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse-ide&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Processing-006699?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/LTSpice-A51417?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Matlab-0076A8?style=for-the-badge&logo=mathworks&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Vernier-808080?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white"/>
 </p>
 
-<div style="background-color:#1e1e1e; color:#d4d4d4; padding:20px; border-radius:10px; font-family:'Fira Code', monospace; font-size:14px; margin-bottom:0;">
+<div style="background-color:#1e1e1e; color:#d4d4d4; padding:10px 20px; border-radius:8px; font-family:'Fira Code', monospace; font-size:14px; margin-top:10px;">
+<pre><code>Web &amp; Frameworks:</code></pre>
+</div>
+
+<p>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+</p>
+
+<div style="background-color:#1e1e1e; color:#d4d4d4; padding:10px 20px; border-radius:8px; font-family:'Fira Code', monospace; font-size:14px; margin-top:10px;">
 <pre><code>Tools:</code></pre>
 </div>
 
@@ -67,16 +80,8 @@ Languages &amp; Hardware:</code></pre>
   <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white"/>
 </p>
 
-<!-- PROJECTS -->
-<div style="background-color:#1e1e1e; color:#d4d4d4; padding:20px; border-radius:10px; font-family:'Fira Code', monospace; font-size:14px;">
-<pre><code><span style="color:#6A9955;">// 🧪 Notable Projects</span>
+---
 
-🧠 RISC-V CPU (5-stage)        // Custom ALU, PC logic, pipelining  
-📡 FastAPI BobaCloud           // REST microservice with CI/CD + tests  
-🎮 Simon Game (Java GUI)      // Animated, interactive sequence game  
-📈 Analog Design Labs         // Amplifiers, Diode Regs, Rectifiers
-</code></pre>
-</div>
 
 <!-- EXPERIENCE -->
 <div style="background-color:#1e1e1e; color:#d4d4d4; padding:20px; border-radius:10px; font-family:'Fira Code', monospace; font-size:14px;">
@@ -109,6 +114,24 @@ B.Eng. Electrical Engineering @ TMU (2023–2027)
 🧠 haniii.vercel.app
 </code></pre>
 </div>
+
+<!-- Passionate Apps Section -->
+<div style="background-color:#1e1e1e; color:#d4d4d4; padding:20px; border-radius:10px; font-family:'Fira Code', monospace; font-size:14px;">
+<pre><code><span style="color:#6A9955;">// 💖 Apps I'm Passionate About</span></code></pre>
+</div>
+
+<p>
+  <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Wattpad-FF500A?style=for-the-badge&logo=wattpad&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Webtoon-00D564?style=for-the-badge&logo=webtoon&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Pinterest-BD081C?style=for-the-badge&logo=pinterest&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TikTok-010101?style=for-the-badge&logo=tiktok&logoColor=white"/>
+</p>
+
 
 <!-- FINAL GIFS -->
 <p align="center">
