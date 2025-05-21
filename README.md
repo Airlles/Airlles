@@ -5,34 +5,34 @@
   <img src="https://readme-typing-svg.demolab.com/?lines=Hey%2C%20I'm%20Hani%20Ahmed!;Digital%20Systems%20Engineer%20in%20Training;Always%20Learning%20%26%20Building!&font=Fira%20Code&center=true&width=550&height=50">
 </p>
 
+<!-- CLEAN SPACED OUT GIFS -->
 <!-- 
 <p align="center">
   <img src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif" width="100" style="margin: 0 20px;"/>
   <img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" width="100" style="margin: 0 20px;"/>
   <img src="https://media.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif" width="100" style="margin: 0 20px;"/>
-</p>CLEAN SPACED OUT GIFS -->
+</p>
+-->
 
-<!-- <p align="center"> 
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Airlles&theme=radical" />
-</p> -->
-
+<!-- PROFILE SUMMARY -->
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Airlles&theme=radical" />
 </p>
 
-<!-- CODE EDITOR STYLE WRAPPER -->
+<!-- ABOUT ME -->
 <div style="background-color:#1e1e1e; color:#d4d4d4; padding:20px; border-radius:10px; font-family:'Fira Code', monospace; font-size:14px;">
+<pre><code><span style="color:#6A9955;">// ⚡ About Me</span>
 
-<pre><code><span style="color:#569cd6;">// ⚡ About Me</span>
-
-<span style="color:#c586c0;">🔬</span> Electrical Engineering Student @ TMU (Co-op)  
-<span style="color:#c586c0;">🔧</span> Digital Design | <span style="color:#c586c0;">🧪</span> Embedded Systems | <span style="color:#c586c0;">💻</span> Backend APIs  
-<span style="color:#c586c0;">🎯</span> Curious about CPUs, Waveforms & Systems Architecture
-
-<span style="color:#569cd6;">// 🛠️ Tech Stack</span>
-
-<span style="color:#4ec9b0;">Languages & Hardware:</span>  
+🔬 Electrical Engineering Student @ TMU (Co-op)  
+🔧 Digital Design | 🧪 Embedded Systems | 💻 Backend APIs  
+🎯 Curious about CPUs, Waveforms & Systems Architecture
 </code></pre>
+</div>
+
+<!-- TECH STACK -->
+<div style="background-color:#1e1e1e; color:#d4d4d4; padding:20px; border-radius:10px; font-family:'Fira Code', monospace; font-size:14px; margin-bottom:0;">
+<pre><code><span style="color:#6A9955;">// 🛠️ Tech Stack</span>
+Languages &amp; Hardware:</code></pre>
 </div>
 
 <p>
@@ -45,7 +45,10 @@
   <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white"/>
 </p>
 
-<p><b>Simulation & IDEs:</b></p>
+<div style="background-color:#1e1e1e; color:#d4d4d4; padding:20px; border-radius:10px; font-family:'Fira Code', monospace; font-size:14px; margin-bottom:0;">
+<pre><code>Simulation &amp; IDEs:</code></pre>
+</div>
+
 <p>
   <img src="https://img.shields.io/badge/ModelSim-003B6F?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Quartus%20II-007ACC?style=for-the-badge"/>
@@ -54,35 +57,51 @@
   <img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge"/>
 </p>
 
-<p><b>Tools:</b></p>
+<div style="background-color:#1e1e1e; color:#d4d4d4; padding:20px; border-radius:10px; font-family:'Fira Code', monospace; font-size:14px; margin-bottom:0;">
+<pre><code>Tools:</code></pre>
+</div>
+
 <p>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
   <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white"/>
 </p>
 
+<!-- PROJECTS -->
 <div style="background-color:#1e1e1e; color:#d4d4d4; padding:20px; border-radius:10px; font-family:'Fira Code', monospace; font-size:14px;">
-<pre><code><span style="color:#569cd6;">// 🧪 Notable Projects</span>
+<pre><code><span style="color:#6A9955;">// 🧪 Notable Projects</span>
 
-<span style="color:#dcdcaa;">🧠</span> RISC-V CPU (5-stage)        <span style="color:#6a9955;">// Custom ALU, PC logic, pipelining</span>  
-<span style="color:#dcdcaa;">📡</span> FastAPI BobaCloud           <span style="color:#6a9955;">// REST microservice with CI/CD + tests</span>  
-<span style="color:#dcdcaa;">🎮</span> Simon Game (Java GUI)      <span style="color:#6a9955;">// Animated, interactive sequence game</span>  
-<span style="color:#dcdcaa;">📈</span> Analog Design Labs         <span style="color:#6a9955;">// Amplifiers, Diode Regs, Rectifiers</span>
+🧠 RISC-V CPU (5-stage)        // Custom ALU, PC logic, pipelining  
+📡 FastAPI BobaCloud           // REST microservice with CI/CD + tests  
+🎮 Simon Game (Java GUI)      // Animated, interactive sequence game  
+📈 Analog Design Labs         // Amplifiers, Diode Regs, Rectifiers
+</code></pre>
+</div>
 
-<span style="color:#569cd6;">// 💼 Experience</span>
+<!-- EXPERIENCE -->
+<div style="background-color:#1e1e1e; color:#d4d4d4; padding:20px; border-radius:10px; font-family:'Fira Code', monospace; font-size:14px;">
+<pre><code><span style="color:#6A9955;">// 💼 Experience</span>
 
 🛠️ FMD Intern – TMU (May 2024 – Present)  
-<span style="color:#6a9955;">// Deployed tablets, automated workflows, built Python analytics</span>
+// Deployed tablets, automated workflows, built Python analytics
 
 🔧 Siemens Volunteer (Jul 2023 – Aug 2023)  
-<span style="color:#6a9955;">// Refurbished 500+ systems, BIOS & perf optimization</span>
+// Refurbished 500+ systems, BIOS & perf optimization
+</code></pre>
+</div>
 
-<span style="color:#569cd6;">// 🎓 Education</span>
+<!-- EDUCATION -->
+<div style="background-color:#1e1e1e; color:#d4d4d4; padding:20px; border-radius:10px; font-family:'Fira Code', monospace; font-size:14px;">
+<pre><code><span style="color:#6A9955;">// 🎓 Education</span>
 
 B.Eng. Electrical Engineering @ TMU (2023–2027)  
-<span style="color:#6a9955;">// Key Courses: Digital Systems · Microprocessors · Circuit Theory</span>
+// Key Courses: Digital Systems · Microprocessors · Circuit Theory
+</code></pre>
+</div>
 
-<span style="color:#569cd6;">// 🌐 Connect with Me</span>
+<!-- CONTACT -->
+<div style="background-color:#1e1e1e; color:#d4d4d4; padding:20px; border-radius:10px; font-family:'Fira Code', monospace; font-size:14px;">
+<pre><code><span style="color:#6A9955;">// 🌐 Connect with Me</span>
 
 📫 haniahmd004@gmail.com  
 🔗 linkedin.com/in/haniahmd  
@@ -91,6 +110,7 @@ B.Eng. Electrical Engineering @ TMU (2023–2027)
 </code></pre>
 </div>
 
+<!-- FINAL GIFS -->
 <p align="center">
   <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="100" style="margin: 0 15px;"/>
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100" style="margin: 0 15px;"/>
