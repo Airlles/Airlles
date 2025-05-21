@@ -12,7 +12,6 @@
   <img src="https://media.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif" width="100" style="margin: 0 20px;"/>
 </p>CLEAN SPACED OUT GIFS -->
 
-
 <!-- <p align="center"> 
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Airlles&theme=radical" />
 </p> -->
@@ -21,20 +20,21 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Airlles&theme=radical" />
 </p>
 
+<!-- CODE EDITOR STYLE WRAPPER -->
+<div style="background-color:#1e1e1e; color:#d4d4d4; padding:20px; border-radius:10px; font-family:'Fira Code', monospace; font-size:14px;">
 
-## ⚡ About Me
+<pre><code><span style="color:#569cd6;">// ⚡ About Me</span>
 
-🔬 Electrical Engineering Student @ TMU (Co-op)  
-🔧 Digital Design | 🧪 Embedded Systems | 💻 Backend APIs  
-🎯 Curious about CPUs, Waveforms & Systems Architecture
+<span style="color:#c586c0;">🔬</span> Electrical Engineering Student @ TMU (Co-op)  
+<span style="color:#c586c0;">🔧</span> Digital Design | <span style="color:#c586c0;">🧪</span> Embedded Systems | <span style="color:#c586c0;">💻</span> Backend APIs  
+<span style="color:#c586c0;">🎯</span> Curious about CPUs, Waveforms & Systems Architecture
 
----
+<span style="color:#569cd6;">// 🛠️ Tech Stack</span>
 
-## 🛠️ Tech Stack
+<span style="color:#4ec9b0;">Languages & Hardware:</span>  
+</code></pre>
+</div>
 
-## 🛠️ Tech Stack
-
-**Languages & Hardware:**  
 <p>
   <img src="https://img.shields.io/badge/SystemVerilog-000000?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/VHDL-453C5C?style=for-the-badge"/>
@@ -45,7 +45,7 @@
   <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white"/>
 </p>
 
-**Simulation & IDEs:**  
+<p><b>Simulation & IDEs:</b></p>
 <p>
   <img src="https://img.shields.io/badge/ModelSim-003B6F?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Quartus%20II-007ACC?style=for-the-badge"/>
@@ -54,50 +54,42 @@
   <img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge"/>
 </p>
 
-**Tools:**  
+<p><b>Tools:</b></p>
 <p>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
   <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white"/>
 </p>
 
+<div style="background-color:#1e1e1e; color:#d4d4d4; padding:20px; border-radius:10px; font-family:'Fira Code', monospace; font-size:14px;">
+<pre><code><span style="color:#569cd6;">// 🧪 Notable Projects</span>
 
----
+<span style="color:#dcdcaa;">🧠</span> RISC-V CPU (5-stage)        <span style="color:#6a9955;">// Custom ALU, PC logic, pipelining</span>  
+<span style="color:#dcdcaa;">📡</span> FastAPI BobaCloud           <span style="color:#6a9955;">// REST microservice with CI/CD + tests</span>  
+<span style="color:#dcdcaa;">🎮</span> Simon Game (Java GUI)      <span style="color:#6a9955;">// Animated, interactive sequence game</span>  
+<span style="color:#dcdcaa;">📈</span> Analog Design Labs         <span style="color:#6a9955;">// Amplifiers, Diode Regs, Rectifiers</span>
 
-## 🧪 Notable Projects
+<span style="color:#569cd6;">// 💼 Experience</span>
 
-🧠 **RISC-V CPU (5-stage)** – Custom ALU, PC logic, pipelining  
-📡 **FastAPI BobaCloud** – REST microservice with CI/CD + tests  
-🎮 **Simon Game (Java GUI)** – Animated, interactive sequence game  
-📈 **Analog Design Labs** – Amplifiers, Diode Regs, Rectifiers
+🛠️ FMD Intern – TMU (May 2024 – Present)  
+<span style="color:#6a9955;">// Deployed tablets, automated workflows, built Python analytics</span>
 
----
+🔧 Siemens Volunteer (Jul 2023 – Aug 2023)  
+<span style="color:#6a9955;">// Refurbished 500+ systems, BIOS & perf optimization</span>
 
-## 💼 Experience
+<span style="color:#569cd6;">// 🎓 Education</span>
 
-**🛠️ FMD Intern – TMU** *(May 2024 – Present)*  
-Deployed tablets, automated workflows, built Python analytics
+B.Eng. Electrical Engineering @ TMU (2023–2027)  
+<span style="color:#6a9955;">// Key Courses: Digital Systems · Microprocessors · Circuit Theory</span>
 
-**🔧 Siemens Volunteer** *(Jul 2023 – Aug 2023)*  
-Refurbished 500+ systems, BIOS & perf optimization
+<span style="color:#569cd6;">// 🌐 Connect with Me</span>
 
----
-
-## 🎓 Education
-
-**B.Eng. Electrical Engineering** @ TMU *(2023–2027)*  
-Key Courses: Digital Systems · Microprocessors · Circuit Theory
-
----
-
-## 🌐 Connect with Me
-
-📫 [haniahmd004@gmail.com](mailto:haniahmd004@gmail.com)  
-🔗 [LinkedIn](https://linkedin.com/in/haniahmd)  
-💻 [GitHub](https://github.com/Airlles)  
-🧠 [Portfolio](https://haniii.vercel.app)
-
----
+📫 haniahmd004@gmail.com  
+🔗 linkedin.com/in/haniahmd  
+💻 github.com/Airlles  
+🧠 haniii.vercel.app
+</code></pre>
+</div>
 
 <p align="center">
   <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="100" style="margin: 0 15px;"/>
