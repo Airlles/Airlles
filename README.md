@@ -138,7 +138,7 @@ B.Eng. Electrical Engineering @ TMU (2023–2027)
 <div style="background-color:#1e1e1e; color:#d4d4d4; padding:20px; border-radius:10px; font-family:'Fira Code', monospace; font-size:14px;">
 <pre><code><span style="color:#6A9955;">// 🌐 Connect with Me</span>
 
-📫 haniahmd004@gmail.com  
+📫 h13ahmed@torontomu.com  
 🔗 linkedin.com/in/haniahmd  
 💻 github.com/Airlles  
 🧠 haniii.vercel.app
